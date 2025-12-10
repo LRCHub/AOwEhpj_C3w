@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "命という病",
+  "base_artist": "ReoNa",
+  "createdAt": "2025-12-10T05:09:58.702550Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "命という病",
+      "artist": "ReoNa",
+      "has_synced": false,
+      "path": "select/pl_01_命という病_ReoNa.txt"
+    }
+  ]
+}
